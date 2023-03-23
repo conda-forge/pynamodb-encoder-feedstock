@@ -1,11 +1,11 @@
-About pynamodb-encoder
-======================
+About pynamodb-encoder-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pynamodb-encoder-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/lyang/pynamodb-encoder
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pynamodb-encoder-feedstock/blob/main/LICENSE.txt)
 
 Summary: Helper classes that encode/decode pynamodb models to/from JSON serializable dict
 
